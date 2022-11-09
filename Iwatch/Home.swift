@@ -20,7 +20,7 @@ class Home: UIView {
     
     var content: String = ""{
         didSet{
-            Dprint(content)
+              Dprint(content)
         }
     }
     
